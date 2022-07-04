@@ -45,6 +45,8 @@ h3 {
 }
 
 .top-container {
+  height: 240px;
+  width: 100%;
   background-color: #EAF6F6;
   position: relative;
   padding-top: 100px;
@@ -95,9 +97,9 @@ h3 {
 }
 
 .round-img {
-  border: 2px solid rgb(169, 226, 235);
+  /* border: 2px solid rgb(169, 226, 235); */
   border-radius: 100%;
-  height: 180px;
+  height: 240px;
 }
 
 .skill-row {
